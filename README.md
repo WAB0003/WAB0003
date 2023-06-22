@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align='center'>
+  👋👋 Hello! I'm Bill! 👋👋
+</h1>
+  
+<p align='center'>
+  <a href="https://www.linkedin.com/in/oneandonlybillbrown/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@bill.a.brown90">
+    <img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />       
+  </a>
+</p>
 
-<!--
-**WAB0003/WAB0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+My Name is Bill Brown and I'm a Full Stack Software Engineer. Prior to my transition into the tech industry, I was a Senior Project Engineer in the Construction industry. Toward the end of my construction career, I primarily focused on building office spaces for larger tech clients such as Meta & GitHub. 
 
-Here are some ideas to get you started:
+Having worked in the construction industry for 9 years, I utilized many innovated technologies, such as Procore and Plangrid, to promote collaboration and enhance communication between team members. Wanting to build upon and improve these technologies is what led me to become a software developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, I have too many hobbies to keep up with. I love climbing, biking, kayaking, and of course...PICKLE BALL!
+</p>
+
+
